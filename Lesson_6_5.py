@@ -29,4 +29,3 @@ hand_1 = Handle("Нестераемый маркер")
 print(pen_1.draw())
 print(pencil_1.draw())
 print(hand_1.draw())
-
