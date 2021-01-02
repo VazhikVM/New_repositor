@@ -55,3 +55,4 @@ print(car_1.show_speed(), car_1.start(), car_1.ston(),car_1.direction())
 print(car_2.show_speed(), car_2.start(), car_2.ston(),car_2.direction())
 print(car_3.show_speed(), car_3.start(), car_3.ston(),car_3.direction())
 print(car_4.show_speed(), car_4.start(), car_4.ston(),car_4.direction())
+
