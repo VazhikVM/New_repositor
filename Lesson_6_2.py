@@ -7,7 +7,7 @@ class Road:
         self._w = width
 
     def asphalt(self):
-        sum_asphalt = (self._l * self._w * Road.mass * Road.height)/1000
+        sum_asphalt = (self._l * self._w * self.mass * self.height)/1000
         return sum_asphalt
 
 
